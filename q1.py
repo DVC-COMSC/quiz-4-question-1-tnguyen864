@@ -12,9 +12,10 @@ counter = 0
 even = False
 okSwitch = False
 
+print("Enter 10 integer values: ")
 # Get 10 values from user
 for i in range(10):
-    num = int(input("Enter an integer: "))
+    num = int(input(""))
     
     # Validate if even and count clusters
     if num % 2 == 0:
