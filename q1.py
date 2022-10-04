@@ -33,4 +33,4 @@ if okSwitch == True:
     counter += 1
 
 # Print counter
-print("Number of even clusters:", counter)
+print(counter)
